@@ -5,3 +5,5 @@ _Date_: 27 Oct. 2020
 
 We can find here exercices for the Distant Reading class of the UniGE.
 Ici j'ajoute un truc
+
+salut les gens! 
